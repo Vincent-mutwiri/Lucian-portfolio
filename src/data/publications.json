@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "title": "SIR Model for COVID-19 Dynamics Incorporating Clinical Management",
+      "type": "Journal Article",
+      "venue": "Journal of Advances in Mathematics and Computer Science 37(5)",
+      "year": 2022,
+      "link": "https://doi.org/10.9734/jamcs/2022/v37i530452"
+    },
+    {
+      "id": 2,
+      "title": "Enhancing Mathematics Education: Evaluating Faculty Training for STACK Integration in African Universities",
+      "type": "Conference Presentation",
+      "venue": "2nd STACK Conference, Technical University of Kenya",
+      "year": 2024,
+      "link": null
+    }
+  ]

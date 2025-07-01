@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "role": "STEM Educator & Instructional Designer",
+      "company": "INNODEMS",
+      "period": "Feb 2025 – Present",
+      "duties": ["Train STEM teachers in GeoGebra, STACK & R-Instat", "Plan & run STEM/Coding/Math camps", "Champion PhET interactive simulations"]
+    },
+    {
+      "id": 2,
+      "role": "Curriculum Designer & Facilitator (Volunteer)",
+      "company": "EdTech Guardian Hub",
+      "period": "Jan 2025 – Present",
+      "duties": ["Co-design digital-literacy & AI curricula", "Lead teacher masterclasses", "Pilot and iterate materials in partner schools"]
+    },
+    {
+      "id": 3,
+      "role": "Project Partner",
+      "company": "University of Bonn (Math Club)",
+      "period": "Jan 2025 – Present",
+      "duties": ["Co-organise monthly international math-club workshops for gifted learners"]
+    }
+  ]
