@@ -1,9 +1,23 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  darkMode: ['class'],
+  darkMode: ['class', '[data-theme="dark"]'],
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
+    "./src/components/**/*.{js,ts,jsx,tsx}",
+    "./src/pages/**/*.{js,ts,jsx,tsx}",
+    "./src/App.tsx",
+    "./src/main.tsx",
+    "./src/components/theme-provider.tsx",
+    "./src/components/Seo.tsx",
+    "./src/components/Header.tsx",
+    "./src/components/Footer.tsx",
+    "./src/components/Hero.tsx",
+    "./src/components/ExperienceSection.tsx",
+    "./src/components/PublicationsSection.tsx",
+    "./src/components/ProjectsSection.tsx",
+    "./src/components/ContactSection.tsx",
+    "./src/pages/HomePage.tsx",
   ],
   theme: {
     extend: {
