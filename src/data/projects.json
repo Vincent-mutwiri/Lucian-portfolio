@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "title": "Early Family Maths (EFM) App Study",
+      "description": "Analysed focus-group and interview data to assess how a mobile app fosters parent-child maths play in Kenya; delivered actionable insights to designers.",
+      "skills": ["Qualitative Research", "Thematic Analysis", "Reporting"]
+    },
+    {
+      "id": 2,
+      "title": "Kakamega & Tanga STEM Youth BootCamps",
+      "description": "Planned and facilitated multi-day hands-on STEM camps reaching 100+ students in Kenya and Tanzania.",
+      "skills": ["Event Coordination", "Inquiry-Based Teaching", "Public Speaking"]
+    },
+    {
+      "id": 3,
+      "title": "Swahili PhET Simulation Translation",
+      "description": "Translated >200 Physics Education Technology (PhET) simulations into Swahili, making interactive resources accessible to East-African learners.",
+      "skills": ["Translation", "STEM Communication", "Localization"]
+    }
+  ]
